@@ -1,4 +1,3 @@
-```md
 # Hello there! 
 > I’m Ryan Lay, otherwise known as totally-not-frito-lays; just trying to find my way in the galaxy 🌌
 
@@ -32,4 +31,4 @@
 > Staying hungry, staying foolish
 - 🍼 Libraries I'm learning -- [Blender API](https://docs.blender.org/api/current/info_overview.html), [Three.JS](https://threejs.org/), [Anime.JS](https://animejs.com/), [React](https://reactjs.org/)
 - 🏗️ Technologies I'm learning -- [Godot](https://godotengine.org/), Zapier and Integrations, Social Media Bots, 3d Printing and CAD
-```
+

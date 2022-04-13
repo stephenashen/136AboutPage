@@ -12,7 +12,7 @@
 - Machine Learning Research Intern --	I researched and presented on the fundamentals of Machine Learning including appropriately fitting models to data. Using this knowledge, I then assisted in a graduate level project by utilizing relevant statistical methods to build, train, and test a machine learning model that would predict El Niño water temperatures based off past data.
 
 ## Tools and technologies
-> What I've got on my tool belt
+> Skills I've accumulated so far
 - Languages I'm proficient at -- Java, C++, Python
 - Languages I have basic experience in -- R, C, C#, System Verilog, MATLAB
 - Technical Classes -- Advanced Data Structures, Object Oriented Programming, Theory of Computation, Algorithm Design and Analysis, Operating Systems, Software Engineering – incl. Agile Development, Computer Organization & Systems Programming
